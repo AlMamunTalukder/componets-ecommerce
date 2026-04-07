@@ -1,0 +1,50 @@
+[
+    {
+        "id": "69480c60b2b860c38831eee8",
+        "imageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "mobileImageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "desktopImageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "title": "opeening ceremony",
+        "description": "",
+        "link": "",
+        "altText": "",
+        "ctaText": "",
+        "openInNewTab": false,
+        "priority": 3,
+        "position": "hero",
+        "impressions": 8,
+        "clicks": 0
+    },
+    {
+        "id": "694ab407e72101ab966726c9",
+        "imageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "mobileImageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "desktopImageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "title": "Ramadan month sale",
+        "description": "Ramadan month sale 10% off",
+        "link": "",
+        "altText": "",
+        "ctaText": "",
+        "openInNewTab": false,
+        "priority": 19,
+        "position": "inline",
+        "impressions": 0,
+        "clicks": 0
+    },
+    {
+        "id": "694ab3d5e72101ab966726c3",
+        "imageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "mobileImageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "desktopImageUrl": "https://admin.beautybooth.com.bd/uploads/slider/fabulous-february-web-1771412496.webp",
+        "title": "Black-Friday-Sale",
+        "description": "Get up to 40% Discount on",
+        "link": "",
+        "altText": "",
+        "ctaText": "",
+        "openInNewTab": false,
+        "priority": 20,
+        "position": "inline",
+        "impressions": 0,
+        "clicks": 0
+    }
+]

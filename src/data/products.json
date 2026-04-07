@@ -1,0 +1,124 @@
+[
+    {
+        "_id": "69b1918adba9261fe50577d8",
+        "name": "Beauty of Joseon Ginseng Essence Water (40ml)",
+        "description": "Experience the revitalizing power of Beauty of Joseon Ginseng Essence Water. This lightweight essence deeply hydrates, improves skin glow, and strengthens the skin barrier with its potent ginseng extract. Perfect for all skin types, it absorbs quickly to leave your skin feeling refreshed and radiant. Ideal for daily use in your skincare routine.",
+        "slug": "beauty-of-joseon-ginseng-essence-water-40ml-5868",
+        "sku": "BJG-NDK0L",
+        "old_price": 950,
+        "base_price": 780,
+        "base_image": {
+            "_id": "69b19132dba9261fe50577b4",
+            "url": "https://beautybooth.com.bd/_next/image?url=https%3A%2F%2Fcdn.beautybooth.com.bd%2Fuploads%2Fall%2Fbudget-brightening-combo-1_51.webp&w=828&q=75",
+            "thumbnailUrl": "https://beautybooth.com.bd/_next/image?url=https%3A%2F%2Fcdn.beautybooth.com.bd%2Fuploads%2Fall%2Fbudget-brightening-combo-1_51.webp&w=828&q=75"
+        },
+        "originCountry": [
+            "https://flagcdn.com/w40/kr.png"
+        ],
+        "originName": "imported From South Korea",
+        "images": [
+            {
+                "_id": "69b19132dba9261fe50577b2",
+                "url": "https://beautybooth.com.bd/_next/image?url=https%3A%2F%2Fcdn.beautybooth.com.bd%2Fuploads%2Fall%2Fbudget-brightening-combo-1_51.webp&w=828&q=75",
+                "thumbnailUrl": "https://beautybooth.com.bd/_next/image?url=https%3A%2F%2Fcdn.beautybooth.com.bd%2Fuploads%2Fall%2Fbudget-brightening-combo-1_51.webp&w=828&q=75"
+            },
+            {
+                "_id": "69b19132dba9261fe50577b3",
+                "url": "https://beautybooth.com.bd/_next/image?url=https%3A%2F%2Fcdn.beautybooth.com.bd%2Fuploads%2Fall%2Fbudget-brightening-combo-1_51.webp&w=828&q=75",
+                "thumbnailUrl": "https://beautybooth.com.bd/_next/image?url=https%3A%2F%2Fcdn.beautybooth.com.bd%2Fuploads%2Fall%2Fbudget-brightening-combo-1_51.webp&w=828&q=75"
+            }
+        ],
+        "videos": [],
+        "has_variants": false,
+        "is_active": true,
+        "shipping_cost": {
+            "inside_dhaka": 70,
+            "outside_dhaka": 130,
+            "_id": "69b1918adba9261fe50577d9"
+        },
+        "care_guide": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"Care Guide | How to Use Beauty of Joseon Ginseng Essence Water\"}]},{\"type\":\"heading-three\",\"children\":[{\"text\":\"How to Apply\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"• Cleanse your face with a gentle cleanser\\n• Apply toner (optional)\\n• Take a small amount of essence on palm or cotton pad\\n• Gently pat into the skin until absorbed\\n• Follow with serum and moisturizer\"}]},{\"type\":\"heading-three\",\"children\":[{\"text\":\"When to Use\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"• Morning skincare routine\\n• Night skincare routine\\n• Daily hydration step\"}]},{\"type\":\"heading-three\",\"children\":[{\"text\":\"Important Tips\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"• Always apply sunscreen during daytime\\n• Patch test before first use\\n• Store in cool, dry place\\n• Avoid contact with eyes\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Regular use helps keep your skin hydrated, smoother, and naturally radiant.\"}]}]",
+        "shipping_info": "",
+        "return_policy": "",
+        "categories": [
+            {
+                "_id": "6946ee8a7310b5821da75cab",
+                "name": "Best Selling",
+                "slug": "best-selling"
+            },
+            {
+                "_id": "6946f88fb8024de6612f3068",
+                "name": "Skin Care",
+                "slug": "skin-care"
+            },
+            {
+                "_id": "6947db37b2b860c38831edb0",
+                "name": "Cleansers",
+                "slug": "cleansers"
+            },
+            {
+                "_id": "6947d8e8b2b860c38831ed43",
+                "name": "Acne Treatment",
+                "slug": "acne-treatment"
+            },
+            {
+                "_id": "6947d8acb2b860c38831ed2e",
+                "name": "Toner Exfoliators",
+                "slug": "toner-exfoliators"
+            },
+            {
+                "_id": "6947d849b2b860c38831ed21",
+                "name": "Serums & Treatments",
+                "slug": "serums-treatments"
+            },
+            {
+                "_id": "6946eea07310b5821da75cb6",
+                "name": "New",
+                "slug": "new"
+            },
+            {
+                "_id": "6946f8cbb8024de6612f307e",
+                "name": "Skin Care Accessories",
+                "slug": "skin-care-accessories"
+            },
+            {
+                "_id": "6947d62fb2b860c38831ecaf",
+                "name": "Face",
+                "slug": "face"
+            },
+            {
+                "_id": "695961444951a367f2e3da47",
+                "name": "Smooth",
+                "slug": "smooth"
+            },
+            {
+                "_id": "69595e6b4951a367f2e3d9dc",
+                "name": "Acne",
+                "slug": "acne"
+            },
+            {
+                "_id": "69595f7a4951a367f2e3da06",
+                "name": "Fairness",
+                "slug": "fairness"
+            }
+        ],
+        "brand": null,
+        "tags": [],
+        "options": [],
+        "meta": {
+            "title": "Beauty of Joseon Ginseng Essence Water 40ml BD",
+            "keywords": [],
+            "description": "Buy Beauty of Joseon Ginseng Essence Water 40ml in Bangladesh. Deeply hydrates, improves skin glow & strengthens skin barrier. Original Korean skincare.",
+            "_id": "69b1918adba9261fe50577da"
+        },
+        "simple_quantity": 0,
+        "simple_track_inventory": false,
+        "simple_low_stock_threshold": 5,
+        "simple_continue_selling_when_out_of_stock": false,
+        "isInStock": false,
+        "sale_status": "hot sale",
+        "unitOfSale": "Already 357 units sold",
+        "createdAt": "2026-03-11T16:00:10.421Z",
+        "updatedAt": "2026-03-11T16:00:10.421Z",
+        "__v": 0
+    }
+]
